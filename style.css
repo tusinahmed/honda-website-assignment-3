@@ -1,0 +1,104 @@
+.header-part{
+background-color: #264653;
+
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* nav bar button css start */
+.button-menu{
+background-color: #E76F51 ;
+color: white;
+border-radius: 10px;
+border: none;
+width: 91px;
+height: 44px;
+
+}
+
+/* nav bar button css end */
+
+
+.button-menu-modal{
+    background-color: #E76F51 ;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    width: 168px;
+    height: 44px;
+    
+    }
+
+    .greys{
+        filter: grayscale(1);
+    }
+
+    .images-news{
+
+        width: 50px;
+
+    }
+
+    .button-menu-news{
+        background-color: #E76F51 ;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    width: 160px;
+    height: 57px;
+    }
+
+    .button-menu-news-different{
+    background-color: white;
+    color: #E76F51;
+    border: 1px solid #E76F51;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 160px;
+    height: 57px;
+    }
+
+    /* user images start  */
+.user-images{
+    width: 149px;
+    height: 149px;
+    
+}
+    /* user images end  */
+
+    .fas{
+        color: #E77C40;
+    }
+
+    .far{
+        color: #E77C40;
+    }
+
+    .happy-text{
+        font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+color: #23A6F0;
+    }
+
+    .user-images-3{
+        border-radius: 50%
+    }
+
+
+   .images-fq{
+       width: 431px;
+       height: 423px;
+   }
+
+   footer{
+       background-color: black;
+   }
+
+   .orange-color{
+       color: #E76F51;
+   }
